@@ -1,5 +1,4 @@
 # Marketing-Campaign-Performance-Data-Analysis
-# Marketing Campaign Performance Analysis
 
 ## Project Overview
 
